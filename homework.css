@@ -1,0 +1,152 @@
+body{
+    background-color: orange;
+    height: 100vh;
+}
+.div_1{
+    width: 400px;
+    height: 540px;
+    margin-top: 50px;
+    margin-left: 475px; 
+    background-color: #fff;   
+}
+.img_class{
+    width: 400px;
+    height: 200px;
+}
+.h3_class{
+    font-size: 30px;
+    font-family: sans-serif; 
+    font-weight: 700;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.dollar{
+    color: orange;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.paragraph{
+    color: grey;
+    font-size:  19px;
+    font-family: sans-serif;
+    padding-left: 30px;
+}
+.size{
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: black;
+    font-weight: 600;
+    font-size: 17px;
+}
+.span_1{
+    padding-left: 30px;
+    color: orange;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.span_2{
+    padding-left: 20px;
+    color: orange;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.btn{
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: orange;
+    border-radius: 30px;
+    border: none;
+    width: 40px;
+    height: 40px;
+}
+
+.span_3{
+    padding-left: 20px;
+    color: orange;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.span_4{
+    padding-left: 20px;
+    color: orange;
+    font-weight: 600;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+.paragraph_2{
+    padding-left: 30px;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #000;
+}
+
+.btn_2{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: grey;
+    margin-left: 30px;
+}
+
+.btn_3{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: orange;
+    margin-left: 30px;
+}
+
+.btn_4{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: blue;
+    margin-left: 30px;
+}
+
+.btn_5{
+    width: 170px;
+    height: 50px;
+    margin-left: 30px;
+    background-color: orange;
+    color: white;
+    margin-top: 10px;
+    border: none;
+}
+
+.a_href{
+    text-decoration: none;
+}
+
+.a_href_2{
+    text-decoration: none;
+}
+
+.sinf{
+    width: 170px;
+    height: 50px;
+    background-color: white;
+    color: orange;
+    border: 1px solid orange;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.btn_wrapper{
+    display: flex;
+}
